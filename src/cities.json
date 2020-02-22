@@ -1,0 +1,86 @@
+[
+  {
+    "day": 1,
+    "city": "Vernon",
+    "latitude": 49.090469,
+    "longitude": 1.48433
+  },
+  {
+    "day": 2,
+    "city": "Rouen",
+    "latitude": 49.442402,
+    "longitude": 1.09846
+  },
+  {
+    "day": 3,
+    "city": "Caudebec-en-Caux",
+    "latitude": 49.52622,
+    "longitude": 0.7245
+  },
+  {
+    "day": 4,
+    "city": "Rouen",
+    "latitude": 49.442402,
+    "longitude": 1.09846
+  },
+  {
+    "day": 5,
+    "city": "Versailles",
+    "latitude": 48.804867,
+    "longitude": 2.120355
+  },
+  {
+    "day": 6,
+    "city": "Paris",
+    "latitude": 48.856613,
+    "longitude": 2.352222
+  },
+  {
+    "day": 7,
+    "city": "Paris",
+    "latitude": 48.856613,
+    "longitude": 2.352222
+  },
+  {
+    "day": 8,
+    "city": "Blaye",
+    "latitude": 45.12907,
+    "longitude": -0.66145
+  },
+  {
+    "day": 9,
+    "city": "Pauillac",
+    "latitude": 45.199968,
+    "longitude": -0.747259
+  },
+  {
+    "day": 10,
+    "city": "Cadillac",
+    "latitude": 44.634571,
+    "longitude": -0.321351
+  },
+  {
+    "day": 11,
+    "city": "Libourne",
+    "latitude": 44.914368,
+    "longitude": -0.247485
+  },
+  {
+    "day": 12,
+    "city": "Libourne",
+    "latitude": 44.914368,
+    "longitude": -0.247485
+  },
+  {
+    "day": 13,
+    "city": "Bordeaux",
+    "latitude": 44.839854,
+    "longitude": -0.57241
+  },
+  {
+    "day": 14,
+    "city": "Bordeaux",
+    "latitude": 44.839854,
+    "longitude": -0.57241
+  }
+]
